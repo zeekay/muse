@@ -1,0 +1,32 @@
+{
+  "name": "muse",
+  "version": "0.0.1",
+  "description": "Find your muse. A music streaming web application.",
+  "main": "lib",
+  "scripts": {
+    "test": "die test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeekay/muse"
+  },
+  "keywords": [
+    "music",
+    "mp3",
+    "flac",
+    "stream",
+    "audio",
+    "die"
+  ],
+  "author":  {
+    "name": "Zach Kelling",
+    "email": "zeekayy@gmail.com",
+    "url": "https://whatit.is"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/zeekay/muse/blob/master/LICENSE"
+    }
+  ]
+}

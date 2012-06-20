@@ -1,4 +1,2 @@
-muse
-====
-
+# muse
 Find your muse.
