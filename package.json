@@ -18,7 +18,7 @@
     "audio",
     "die"
   ],
-  "author":  {
+  "author": {
     "name": "Zach Kelling",
     "email": "zeekayy@gmail.com",
     "url": "https://whatit.is"
@@ -28,5 +28,10 @@
       "type": "MIT",
       "url": "https://github.com/zeekay/muse/blob/master/LICENSE"
     }
-  ]
+  ],
+  "dependencies": {
+    "die": "~0.4.2",
+    "sequelize": "~1.4.1",
+    "musicmetadata": "~0.1.6"
+  }
 }
