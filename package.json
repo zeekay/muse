@@ -32,6 +32,7 @@
   "dependencies": {
     "die": "~0.4.2",
     "sequelize": "~1.4.1",
-    "musicmetadata": "~0.1.6"
+    "musicmetadata": "~0.1.6",
+    "pg": "~0.7.1"
   }
 }
