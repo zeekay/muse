@@ -30,9 +30,9 @@
     }
   ],
   "dependencies": {
-    "die": "~0.4.2",
-    "sequelize": "~1.4.1",
-    "musicmetadata": "~0.1.6",
-    "pg": "~0.7.1"
+    "die": "~0.6.18",
+    "sequelize": "~3.30.0",
+    "musicmetadata": "~2.0.5",
+    "pg": "~6.1.2"
   }
 }
